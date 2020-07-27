@@ -1,0 +1,4 @@
+node_modules/
+playground/
+config/
+package-lock.json
